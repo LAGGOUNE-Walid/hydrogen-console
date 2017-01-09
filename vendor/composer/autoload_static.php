@@ -22,6 +22,10 @@ class ComposerStaticInit51f9bb65226f5dbe38ebd5c8fb9b27f3
 
     public static $classMap = array (
         'Console\\Exceptions\\ConsoleException' => __DIR__ . '/../..' . '/Console/Exceptions/ConsoleException.php',
+        'Console\\Input\\Classes\\Input' => __DIR__ . '/../..' . '/Console/Input/Classes/Input.php',
+        'Console\\Input\\Commands\\ConsoleCommands' => __DIR__ . '/../..' . '/Console/Input/Commands/ConsoleCommands.php',
+        'Console\\Input\\Helpers\\ReadLine' => __DIR__ . '/../..' . '/Console/Input/Helpers/ReadLine.php',
+        'Console\\Input\\Interfaces\\InputInterface' => __DIR__ . '/../..' . '/Console/Input/Interfaces/InputInterface.php',
         'Console\\Output\\Classes\\Output' => __DIR__ . '/../..' . '/Console/Output/Classes/Output.php',
         'Console\\Output\\Helpers\\ColorGenerator' => __DIR__ . '/../..' . '/Console/Output/Helpers/ColorGenerator.php',
         'Console\\Output\\Helpers\\ProgressBar' => __DIR__ . '/../..' . '/Console/Output/Helpers/ProgressBar.php',

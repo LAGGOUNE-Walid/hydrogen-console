@@ -7,6 +7,10 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Console\\Exceptions\\ConsoleException' => $baseDir . '/Console/Exceptions/ConsoleException.php',
+    'Console\\Input\\Classes\\Input' => $baseDir . '/Console/Input/Classes/Input.php',
+    'Console\\Input\\Commands\\ConsoleCommands' => $baseDir . '/Console/Input/Commands/ConsoleCommands.php',
+    'Console\\Input\\Helpers\\ReadLine' => $baseDir . '/Console/Input/Helpers/ReadLine.php',
+    'Console\\Input\\Interfaces\\InputInterface' => $baseDir . '/Console/Input/Interfaces/InputInterface.php',
     'Console\\Output\\Classes\\Output' => $baseDir . '/Console/Output/Classes/Output.php',
     'Console\\Output\\Helpers\\ColorGenerator' => $baseDir . '/Console/Output/Helpers/ColorGenerator.php',
     'Console\\Output\\Helpers\\ProgressBar' => $baseDir . '/Console/Output/Helpers/ProgressBar.php',
