@@ -9,7 +9,7 @@
             "email": "walidlaggoune159@gmail.com"
         }
     ],
-    "minimum-stability": "alpha",
+    "minimum-stability": "stable",
     "require": {},
     "autoload":{
         "psr-4":{
