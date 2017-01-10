@@ -1,6 +1,6 @@
 {
     "name": "waliddz/hydrogen-console",
-    "description": "class to work with inputs/outputs from/to the gnu/linux terminal.",
+    "description": "CLI library to work with inputs/outputs from/to the gnu/linux terminal.",
     "type": "library",
     "license": "MIT",
     "authors": [
