@@ -15,4 +15,6 @@
                 "Console\\":"Console"
         }
    }
+   "minimum-stability": "dev",
+   "prefer-stable": true
 }
