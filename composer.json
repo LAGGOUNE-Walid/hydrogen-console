@@ -14,7 +14,7 @@
         "psr-4":{
                 "Console\\":"Console"
         }
-   }
+   },
    "minimum-stability": "dev",
    "prefer-stable": true
 }
