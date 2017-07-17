@@ -3,6 +3,7 @@
     "description": "CLI library to work with inputs/outputs from/to the gnu/linux terminal.",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable",
     "autoload":{
         "psr-4":{
                 "Console\\": "Console"
