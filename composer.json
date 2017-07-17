@@ -1,5 +1,5 @@
 {
-    "name": "DilawskyJordan/hydrogen-console",
+    "name": "dilawsky/hydrogen-console",
     "description": "CLI library to work with inputs/outputs from/to the gnu/linux terminal.",
     "type": "library",
     "license": "MIT",
