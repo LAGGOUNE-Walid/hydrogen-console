@@ -9,7 +9,7 @@ MIT
 - Gnu/Linux system or mac os (not working on Microsoft Widnows). 
 
 # Install 
-`sudo composer require waliddz/hydrogen-console dev-master`
+composer require dilawsky/hydrogen-console
 # DOCS 
 [Download the docs](https://drive.google.com/open?id=0B_qWn_IYeBMxLUk2RHZvWUlWdzg)
 # Simple example
